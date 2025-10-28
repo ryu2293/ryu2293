@@ -1,4 +1,4 @@
-# 안녕하세요! 웹 백엔드 개발 공부하는 류승래입니다.
+# 안녕하세요! 👋 단단한 서비스를 만드는 웹 백엔드 개발자를 꿈꾸는 류승래입니다.
 
 ### 👨‍💻 About Me
 - 영남대학교 컴퓨터공학과 **3학년**에 재학 중입니다.
@@ -14,6 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
@@ -21,7 +22,7 @@
 ### 📫 Contact
 - **Email:** seunglaelyu@gmail.com
 - **Velog:** https://velog.io/@ryu2293
-- **Instagram:** https://www.instagram.com/ryusr__
+- **Instagram:** https://www.instagram.com/seungrae0418
 
 <hr>
 
