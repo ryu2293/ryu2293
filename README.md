@@ -21,7 +21,7 @@
 ### 📫 Contact
 - **Email:** seunglaelyu@gmail.com
 - **Velog:** https://velog.io/@ryu2293
-- **Instagram:** https://www.instagram.com/seungrae0418
+- **Instagram:** https://www.instagram.com/ryusr__
 
 <hr>
 
