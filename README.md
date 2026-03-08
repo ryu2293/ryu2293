@@ -7,6 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 💡 성능 최적화와 안정적인 서비스 운영에 관심이 많습니다
+- 🔍 기능이 동작하는 것에서 끝내지 않고, **왜 느린지**를 파고드는 걸 좋아합니다
+- 🤝 팀 프로젝트에서 발생하는 문제를 빠르게 파악하고 해결하는 것을 즐깁니다
 - 📝 공부한 내용을 [Velog](https://velog.io/@ryu2293)에 기록합니다
 
 <br>
@@ -41,6 +43,15 @@
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 
 <br>
+
+## 📌 Pinned Projects
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [PayCoin](https://github.com/ryu2293/PayCoin-BE) | TRON 네트워크 연동 USDT 기반 가상 자산 거래 플랫폼<br>Facade 패턴 + 복합 인덱스로 p(95) 최대 89% 개선 | Java, Spring Boot, MySQL, Docker, k6 |
+| [설스터디](https://github.com/BlaybusHackathon/BlaybusBE) | 멘토-멘티 기반 스마트 학습 관리 플랫폼<br>복합 인덱스 추가로 p(95) 1,993ms → 103ms (94% 개선)<br>2026 블레이버스 해커톤 팀워크상 | Java, Spring Boot, MySQL, AWS |
+| [바이브 코딩 공모전](https://github.com/vibe-coding-research/vibe-coding-improvement) | AI 생성 코드의 계보 기반 신뢰 추적 시스템 아이디어 기획<br>2026 월간 해커톤 출품작 | 기획/설계 |
+| [코딩테스트](https://github.com/ryu2293/coding-test-practice) | 알고리즘 문제 풀이 정리 | Java |
 
 <br>
 
