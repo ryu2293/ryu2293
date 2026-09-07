@@ -1,6 +1,4 @@
-# 안녕하세요, 류승래입니다 👋
-
-> Work is life!
+# Work is Life!
 
 
 <br>
