@@ -1,7 +1,6 @@
 # Work is Life!
 
 
-<br>
 
 ## 🛠 Tech Stack
 
