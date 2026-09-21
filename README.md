@@ -1,7 +1,5 @@
 # Work is Life!
 
-
-
 ## 🛠 Tech Stack
 
 **Strong**
